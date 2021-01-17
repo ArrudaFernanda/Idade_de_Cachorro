@@ -1,0 +1,4 @@
+#Sun Jan 17 08:41:15 ACT 2021
+base.0=/home/fernanda/Área de Trabalho/Programação/Programação (coisas do antigo pc)/Estudos Programacao/JAVA/IdeaProjects/Curso Java desde Zero - AndroidStudio/IdadedeCachorro/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

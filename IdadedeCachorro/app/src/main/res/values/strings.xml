@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Idade de Cachorro</string>
+    <string name="infos">Você sabia que a idade de seu pet é relativamente diferente de nossa idade humana.
+                         Este teste o ajuda a identificar a idade biológica de seu cachorro.</string>
+    <string name="result">RESULTADO:</string>
+</resources>
